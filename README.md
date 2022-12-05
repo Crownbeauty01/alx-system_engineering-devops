@@ -1,2 +1,1 @@
-#!/bin/bash
-pwd
+a readme of shell redirection
